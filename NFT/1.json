@@ -1,29 +1,28 @@
 {
     "edition": 1,
-    "description": "Doodlenauts",
-    "external_url": "https://doodlenauts.io",
-    "image": "https://seanpen.com/nft/1.png",
-    "name": "Doodlenaut #1",
+    "description": "Check out your new Axie Derivative!",
+    "image": "https://seanpen00.github.io/Axie-Derivatives/NFT/1.png",
+    "name": "Axie Derivative #1",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pink"
+            "value": "White"
         },
         {
             "trait_type": "Body",
-            "value": "Pink Astrosuit"
+            "value": "Black Circle"
         },
         {
             "trait_type": "Hat",
             "value": "None"
         },
         {
-            "trait_type": "Helmet",
-            "value": "Pink Proto-Helmet"
+            "trait_type": "Nose",
+            "value": "Small"
         },
         {
             "trait_type": "Face",
-            "value": "Red 'n Dead"
+            "value": "Happy"
         }
     ]
 }
